@@ -1,0 +1,53 @@
+PYTHON WEEK 8 FINAL PROJECT
+PROJECT NAME: MY PYTHON TOOLKIT
+
+1. TOOLS I HAVE CHOSEN
+
+Tool 1: Simple Calculator
+This tool allows the user to perform addition, subtraction, multiplication and division using two numbers.
+
+Tool 2: To-Do List
+This tool allows the user to add tasks and view all the tasks they have entered.
+
+Tool 3: Even or Odd Checker
+This tool allows the user to enter a number and find out whether it is even or odd.
+
+2. EXACT MENU TEXT
+
+Welcome to My Python Toolkit!
+
+Please choose a tool:
+
+1. Simple Calculator
+2. To-Do List
+3. Even or Odd Checker
+4. Quit
+
+Enter your choice (1-4):
+
+3. PYTHON CONCEPTS USED
+
+Simple Calculator:
+- Variables
+- User input
+- Arithmetic operators
+- Conditionals (if/elif/else)
+- F-strings
+
+To-Do List:
+- Lists
+- Loops
+- User input
+- Append method
+- F-strings
+
+Even or Odd Checker:
+- Variables
+- User input
+- Modulo operator (%)
+- Conditionals (if/else)
+- F-strings
+
+4. PROGRAM FLOW
+
+The program will display a welcome message and show the menu. The user will select a tool, and the program will run the selected tool. After the tool finishes, the menu will appear again. The program will continue running until the user chooses Quit.
